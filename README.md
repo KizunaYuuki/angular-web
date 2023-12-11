@@ -2,7 +2,10 @@
 
 https://angular.io/guide/developer-guide-overview
 
-##### Các lệnh cài đặt 
+##### Install and run
+ ```bash
+npm i
+```
  ```bash
 ng serve
 ```
